@@ -1,0 +1,1 @@
+#logop=and,or,not=> to check multiple conditions

@@ -1,0 +1,17 @@
+print("message")=>print a msg in console
+
+type(object)=> return a datatype of object
+
+input("message")=>read  value from console return string value
+
+round(object,precision)
+
+len("string")=len(obj)=leng("hello")=5
+
+range(start,stop,step) #(1,11,1)  1to10
+
+min_num=smallest num return
+
+enumerate=>to obtain both index and element
+
+insistance(object,type)=>
